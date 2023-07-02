@@ -12,9 +12,9 @@ Before coming to Mannheim, I completed an MSc in Quantitative Economics at LMU M
 
 **Email:** emre.oral@uni-mannheim.de
 
-**Address:** 
-University of Mannheim 
-Department of Economics  
-L7 3-5, Room S006
+**Address:** \
+University of Mannheim \
+Department of Economics  \
+L7 3-5, Room S006 \
 68159 Mannheim, Germany
 
