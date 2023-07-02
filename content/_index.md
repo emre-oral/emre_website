@@ -2,24 +2,19 @@
 title = "Homepage"
 +++
 
-# Hello!
+## Hi !
 
-I am the Nathaniel Ropes Professor of Political Economy at Harvard and founder of the [Social Economics Lab](http://socialeconomicslab.org/).
+I am a PhD candidate in Economics at University of Mannheim. I'm interested in applied microeconomics, in particular public economics, and I currently work on behavioral social insurance topics.
 
-
-
+Before coming to Mannheim, I completed an MSc in Quantitative Economics at LMU Munich and a BSc in Maths at Koç University, Istanbul. 
 
 ## Contact
 
+**Email:** emre.oral@uni-mannheim.de
+
 **Address:** 
+University of Mannheim 
 Department of Economics  
-Littauer Center 232  
-Harvard University  
-Cambridge, MA  02138  
+L7 3-5, Room S006
+68159 Mannheim, Germany
 
-**Staff Support:** Ann M. Richards     
-**Email:** ann_richards@harvard.edu      
-**Tel.:** 617-496-3960  
-
-
-**Website:** This website was built using Hugo. Feel free to repurpose its code, which you can find on [GitHub](https://github.com/cschesch/stefanie-stantcheva).
