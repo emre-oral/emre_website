@@ -18,4 +18,3 @@ Department of Economics  \
 L7 3-5, Room XXX \
 68159 Mannheim, Germany
 
-![](emre_workphoto.jpg){width=300px}
