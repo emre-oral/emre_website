@@ -15,8 +15,8 @@ name = "Emre Oral"
       unsafe = true
 
 [params]
-title = ""
+title = "PhD Student"
 institution = "University of Mannheim"
-logo = "emre_workphoto.jpg"
+logo = "content/emre_workphoto.jpg"
 Twitter = "emreoral_"
 Email = "emre.oral@uni-mannheim.de"
