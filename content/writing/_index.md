@@ -1,7 +1,7 @@
 +++
-title = "Broader Audience Writing"
+title = "Writing"
 weight = 0
 +++
 
 
-## Broader Audience Writing
+### Blog

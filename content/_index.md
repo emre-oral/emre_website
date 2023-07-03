@@ -15,6 +15,7 @@ Before coming to Mannheim, I completed an MSc in Quantitative Economics at LMU M
 **Address:** \
 University of Mannheim \
 Department of Economics  \
-L7 3-5, Room S006 \
+L7 3-5, Room XXX \
 68159 Mannheim, Germany
 
+![](emre_workphoto.jpg)
