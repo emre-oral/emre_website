@@ -236,7 +236,7 @@
   background-color: #f8f8f8; }
 
 body {
-  background-color: #000000;
+  background-color: rgb(208, 214, 181);
   margin: 0;
   font: 14px/1.5 "Helvetica Neue", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #5e5e5e;
@@ -282,7 +282,7 @@ h3, h4, h5, h6 {
   color: #494949; }
 
 a.sidebar {
-  color: #fff;
+  color: #000000;
   text-decoration: none; 
   margin-top: -50px;
   word-break: break-word; }
@@ -292,7 +292,7 @@ a.sidebar:hover, a.sidebar:focus {
 
 a.sidebar small {
   font-size: 11px;
-  color: #fff;
+  color: #000000;
   display: inline-block; }
 
 a.sidebar:hover small {
