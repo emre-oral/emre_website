@@ -282,7 +282,7 @@ h3, h4, h5, h6 {
   color: #494949; }
 
 a.sidebar {
-  color: #000000;
+  color: #ffffff;
   text-decoration: none; 
   margin-top: -50px;
   word-break: break-word; }
@@ -292,7 +292,7 @@ a.sidebar:hover, a.sidebar:focus {
 
 a.sidebar small {
   font-size: 11px;
-  color: #000000;
+  color: #ffffff;
   display: inline-block; }
 
 a.sidebar:hover small {
