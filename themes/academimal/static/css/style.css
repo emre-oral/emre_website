@@ -272,7 +272,7 @@ h1, h2, h3 {
   line-height: 1.1; }
 
 h1 {
-  color: #000000;
+  color: #ffffff;
   font-size: 28px; }
 
 h2 {
@@ -360,7 +360,7 @@ img {
 header {
   float: left;
   position: fixed;
-  background: rgb(208, 214, 181);
+  background: #608e7d;
   top: 0px;
   left: 0px;
   bottom: 0px;
