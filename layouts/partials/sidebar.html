@@ -1,10 +1,25 @@
-<h1 class="sidebar"><a class="sidebar" href="#home">{{ .Site.Title }}</a></h1>
+<h1 class="sidebar"><a class="sidebar" href="{{ "/" | relURL }}">{{ .Site.Title }}</a></h1>
 <h1 style="font-size:18px; font-style:italic;">{{ .Site.Params.title }} <br/>
 {{ .Site.Params.institution }}</h1>
 <hr/>
 
-<!-- Static Links -->
-<p class="sidebar"><a class="sidebar" href="e#research">Research</a></p>
+
+{{ $.Scratch.Set "currentPageTitle" .Title }}
+
+{{ range .Site.Menus.main }}
+<p class="sidebar"><a class="sidebar" href="{{ .URL | relURL }}">{{- .Name -}}</a></p>
+
+	{{ if (eq "Research" .Title) }}
+	<p class="sidebar" style="margin-left:2vw;"><a class="sidebar" href="{{ "home/#WorkingPapers" | relURL }}">Working Papers</a></p>
+	<p class="sidebar" style="margin-left:2vw;"><a class="sidebar" href="{{ "home/#WorksInProgress" | relURL }}">Publications</a></p>
+	<!--	<p class="sidebar" style="margin-left:2vw;"><a class="sidebar" href="{{ "research/#PolicyPapers" | relURL }}">Book Chapters & Policy Papers</a></p> -->
+	{{end}}
+
+{{ end }}
+
+
+
+	<!-- <p class="sidebar"><a class="sidebar" href="#research">Research</a></p> -->
 
 <!-- Link to external PDF (remains unchanged) -->
 <p class="sidebar"><a class="sidebar" href="https://www.dropbox.com/s/z7dihlwhe2qp8ko/CV_EmreOral.pdf?dl=0">CV</a></p>
