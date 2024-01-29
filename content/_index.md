@@ -2,6 +2,9 @@
 title = "Homepage"
 +++
 
+<!-- Home Section -->
+<div id="home"></div>
+
 ## Hi !
 
 I am a PhD candidate in Economics at University of Mannheim. I'm interested in applied microeconomics, in particular public economics, and I currently work on behavioral social insurance topics.
