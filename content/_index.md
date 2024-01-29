@@ -21,7 +21,6 @@ L7 3-5, Room S03/04 \
 
 
 
-
 <!-- Research Section -->
 ## Research
 
