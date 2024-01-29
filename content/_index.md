@@ -1,11 +1,8 @@
 +++
-title = "Homepage"
+title = "home"
 +++
 
 <!-- Home Section -->
-<div id="home"></div>
-#home: 
-
 ## Welcome!
 
 I am a PhD candidate in Economics at University of Mannheim. I am interested in public economics, behavioral economics, labor economics and political economy. I currently work on questions around retirement and pensions.
@@ -28,7 +25,6 @@ L7 3-5, Room S003/004 \
 <!-- Research Section -->
 <div id="research"></div>
 #research: 
-
 ## Research
 
 # Work in Progress
