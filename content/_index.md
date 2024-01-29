@@ -4,6 +4,7 @@ title = "Homepage"
 
 <!-- Home Section -->
 <div id="home"></div>
+#home: 
 
 ## Welcome!
 
@@ -26,6 +27,7 @@ L7 3-5, Room S003/004 \
 
 <!-- Research Section -->
 <div id="research"></div>
+#research: 
 
 ## Research
 
