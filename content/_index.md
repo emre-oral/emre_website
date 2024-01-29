@@ -24,7 +24,9 @@ L7 3-5, Room S003/004 \
 
 <!-- Research Section -->
 <div id="research"></div>
+
 #research: 
+
 ## Research
 
 # Work in Progress
