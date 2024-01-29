@@ -3,28 +3,26 @@
 {{ .Site.Params.institution }}</h1>
 <hr/>
 
-
 {{ $.Scratch.Set "currentPageTitle" .Title }}
 
+<!-- Static link to the homepage -->
+<p class="sidebar"><a class="sidebar" href="{{ "/" | relURL }}">Home</a></p>
+
 {{ range .Site.Menus.main }}
-<p class="sidebar"><a class="sidebar" href="{{ .URL | relURL }}">Research</a></p>
-
-	{{ if (eq "Research" .Title) }}
-	<p class="sidebar" style="margin-left:2vw;"><a class="sidebar" href="{{ "home/#WorkingPapers" | relURL }}">Working Papers</a></p>
-	<p class="sidebar" style="margin-left:2vw;"><a class="sidebar" href="{{ "home/#WorksInProgress" | relURL }}">Publications</a></p>
-	<!--	<p class="sidebar" style="margin-left:2vw;"><a class="sidebar" href="{{ "research/#PolicyPapers" | relURL }}">Book Chapters & Policy Papers</a></p> -->
-	{{end}}
-
+    <p class="sidebar"><a class="sidebar" href="{{ .URL | relURL }}">{{ .Name }}</a></p>
+    <!-- Check if the menu item is 'Research' and add sub-sections -->
+    {{ if eq .Name "Research" }}
+        <p class="sidebar" style="margin-left:2vw;"><a class="sidebar" href="{{ "home/#WorkingPapers" | relURL }}">Working Papers</a></p>
+        <p class="sidebar" style="margin-left:2vw;"><a class="sidebar" href="{{ "home/#WorksInProgress" | relURL }}">Publications</a></p>
+        <!-- Uncomment this if you want to add more sections -->
+        <!-- <p class="sidebar" style="margin-left:2vw;"><a class="sidebar" href="{{ "home/#PolicyPapers" | relURL }}">Book Chapters & Policy Papers</a></p> -->
+    {{ end }}
 {{ end }}
 
-
-
-	<!-- <p class="sidebar"><a class="sidebar" href="#research">Research</a></p> -->
-
-<!-- Link to external PDF (remains unchanged) -->
+<!-- External PDF Link -->
 <p class="sidebar"><a class="sidebar" href="https://www.dropbox.com/s/z7dihlwhe2qp8ko/CV_EmreOral.pdf?dl=0">CV</a></p>
 
-<!-- Twitter Link (remains unchanged) -->
+<!-- Twitter Link -->
 <p class="sidebar">
     <img src="{{ "/icons/twitter-white.png" | relURL }}" class="octicons">
     <a class="sidebar" href="https://twitter.com/{{ .Site.Params.Twitter }}" target="_blank">
@@ -32,7 +30,7 @@
     </a>
 </p>
 
-<!-- Site Logo (remains unchanged) -->
+<!-- Site Logo -->
 {{ with .Site.Params.logo }}
     <img src="{{ . | relURL }}" alt="Logo" style="padding-bottom: 3em;"/>
 {{ end }}
