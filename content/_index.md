@@ -23,14 +23,17 @@ L7 3-5, Room S003/004 \
 
 
 <!-- Research Section -->
+## Research
 <div id="research"></div>
 
 
-## Research
+<!-- Working Papers Section -->
+<div id="WorkingPapers"></div>
+### Working Papers
 
-#WorkingPapers
-
-#WorksInProgress
+<!-- Works in Progress Section -->
+<div id="WorksInProgress"></div>
+### Works in Progress
 
 <strong> The Social Spillover of Pension Reform </strong> (with <a href="https://simonrabate.github.io" target="_blank">Simon Rabaté</a> and <a href="https://www.arthurseibold.com" target="_blank">Arthur Seibold</a>)
 
