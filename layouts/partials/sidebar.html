@@ -7,7 +7,7 @@
 {{ $.Scratch.Set "currentPageTitle" .Title }}
 
 {{ range .Site.Menus.main }}
-<p class="sidebar"><a class="sidebar" href="{{ .URL | relURL }}">{{- .Name -}}</a></p>
+<p class="sidebar"><a class="sidebar" href="{{ .URL | relURL }}">Research</a></p>
 
 	{{ if (eq "Research" .Title) }}
 	<p class="sidebar" style="margin-left:2vw;"><a class="sidebar" href="{{ "home/#WorkingPapers" | relURL }}">Working Papers</a></p>
