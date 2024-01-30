@@ -239,11 +239,11 @@ body {
   background-color: #fdfdfd;
   margin: 0;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #5e5e5e;
+  color: #263832;
   font-weight: 400; }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #222;
+  color: #131c19;
   margin: 0 0 20px; }
 
 p, ul, ol, table, pre, dl {
@@ -282,7 +282,7 @@ h3, h4, h5, h6 {
   color: #494949; }
 
 a.sidebar {
-  color: #000000;
+  color: #263832;
   text-decoration: none; 
   margin-top: -50px;
   word-break: break-word; }
@@ -292,7 +292,7 @@ a.sidebar:hover, a.sidebar:focus {
 
 a.sidebar small {
   font-size: 11px;
-  color: #000000;
+  color: #263832;
   display: inline-block; }
 
 a.sidebar:hover small {
@@ -360,12 +360,12 @@ img {
 header {
   float: left;
   position: fixed;
-  background: #BBCFC8;
+  background: #99c0a7;
   top: 0px;
   left: 0px;
   bottom: 0px;
   padding: 2.5vw;
-  width: 20vw;
+  width: 30vw; 
   height: 100vh;
   -webkit-font-smoothing: subpixel-antialiased; }
 
