@@ -239,7 +239,7 @@ body {
   background-color: #fdfdfd;
   margin: 0;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #263832;
+  color: #082132;
   font-weight: 400; }
 
 h1, h2, h3, h4, h5, h6 {
@@ -282,7 +282,7 @@ h3, h4, h5, h6 {
   color: #494949; }
 
 a.sidebar {
-  color: #263832;
+  color: #082132;
   text-decoration: none; 
   margin-top: -50px;
   word-break: break-word; }
@@ -292,7 +292,7 @@ a.sidebar:hover, a.sidebar:focus {
 
 a.sidebar small {
   font-size: 11px;
-  color: #263832;
+  color: #0b293f;
   display: inline-block; }
 
 a.sidebar:hover small {
@@ -360,7 +360,7 @@ img {
 header {
   float: left;
   position: fixed;
-  background: #99c0a7;
+  background: #608e7d;
   top: 0px;
   left: 0px;
   bottom: 0px;
@@ -417,7 +417,7 @@ header ul li + li + li {
 header ul a strong {
   font-size: 14px;
   display: block;
-  color: #222; }
+  color: #0d314b; }
 
 section {
   position: static;
