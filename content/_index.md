@@ -5,9 +5,14 @@ title = "home"
 <!-- Home Section -->
 ## Welcome!
 
-I am a PhD candidate in Economics at University of Mannheim. I am interested in public economics, behavioral economics, labor economics and political economy. I currently work on questions around retirement and pensions.
+I am a Ph.D. student in Economics at University of Mannheim. I am interested in public economics, behavioral economics, labor economics and political economy. I currently work on questions around retirement and pensions.
 
 Before coming to Mannheim, I completed an M.Sc. in Quantitative Economics at LMU Munich and Bachelors in Mathematics and Economics at Koç University, Istanbul. 
+
+
+<hr style="height:1px; border:none; background-color:black;">
+
+
 
 ## Contact
 
@@ -20,6 +25,9 @@ L7 3-5, Room S03/04 \
 68161 Mannheim, Germany
 
 
+<hr style="height:1px; border:none; background-color:black;">
+
+
 
 <!-- Research Section -->
 ## Research
@@ -27,6 +35,11 @@ L7 3-5, Room S03/04 \
 ### Work in Progress 
 - **The Social Spillover of Pension Reform** (with <a href="https://simonrabate.github.io" target="_blank">Simon Rabaté</a> and <a href="https://www.arthurseibold.com" target="_blank">Arthur Seibold</a>)
 
+- **Behavioral Adjustments to Retirement Reforms**
 <!-- ## My Google Scholar profile: [[Link]](https://scholar.google.com/citations?user=9YxOOSQAAAAJ&hl=en) -->
+
+
+
+
 
 
