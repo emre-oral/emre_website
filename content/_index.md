@@ -9,7 +9,7 @@ I am a Ph.D. student in Economics at University of Mannheim. I am interested in 
 
 Before coming to Mannheim, I completed an M.Sc. in Quantitative Economics at LMU Munich and Bachelors in Mathematics and Economics at Koç University, Istanbul. 
 
-Here is my  __[CV](/pdf/CV_EmreOral.pdf)__
+Here is my  __[CV](/pdf/CV_EmreOral.pdf)__ .
 
 Please don't hesitate to reach out!
 
