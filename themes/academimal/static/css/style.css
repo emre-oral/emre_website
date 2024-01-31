@@ -276,7 +276,7 @@ h1 {
   font-size: 28px; }
 
 h2 {
-  color: #101618; }
+  color: #f3f6f7; }
 
 h3, h4, h5, h6 {
   color: #182225; }
@@ -288,7 +288,7 @@ a.sidebar {
   word-break: break-word; }
 
 a.sidebar:hover, a.sidebar:focus {
-  color: #046; }
+  color: #267CB9; }
 
 a.sidebar small {
   font-size: 11px;
@@ -296,7 +296,7 @@ a.sidebar small {
   display: inline-block; }
 
 a.sidebar:hover small {
-  color: #046; }
+  color: #267CB9; }
 
 p.sidebar {
   margin-top: -10px;}
@@ -306,7 +306,7 @@ a {
   text-decoration: none; }
 
 a:hover, a:focus {
-  color: #046; }
+  color: #267CB9; }
 
 a small {
   font-size: 11px;
@@ -315,7 +315,7 @@ a small {
   display: block; }
 
 a:hover small {
-  color: #046; }
+  color: #267CB9; }
 
 .wrapper {
   width: 1060px;
@@ -400,14 +400,14 @@ header ul a {
   height: 34px; }
 
 header ul a:hover, header ul a:focus {
-  color: #046;
+  color: #267CB9;
   font-weight: bold; }
 
 header ul a:active {
   background-color: #f0f0f0; }
 
 strong {
-  color: #222;
+  color: #182225;
   font-weight: 700; }
 
 header ul li + li + li {

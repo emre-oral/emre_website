@@ -39,8 +39,7 @@ L7 3-5, Room S03/04 \
 ### Work in Progress 
 - **The Social Spillover of Pension Reform** (with [Simon Rabaté](https://simonrabate.github.io) and [Arthur Seibold](https://www.arthurseibold.com))
 
-- **Behavioral Adjustments to Retirement Reforms** (with [Arthur Seibold](https://www.arthurseibold.com))
-<!-- ## My Google Scholar profile: [[Link]](https://scholar.google.com/citations?user=9YxOOSQAAAAJ&hl=en) -->
+- **Behavioral Adjustments to Retirement Reforms**
 
 
 
