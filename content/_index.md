@@ -5,7 +5,7 @@ title = "home"
 <!-- Home Section -->
 ## Welcome!
 
-I am a Ph.D. student in Economics at University of Mannheim. I am interested in public economics, behavioral economics, labor economics and political economy. I currently work on questions around retirement and pensions.
+I am a Ph.D. student in Economics at University of Mannheim. I am interested in public economics, behavioral economics, labor economics and political economy. I currently work on questions around social security and retirement.
 
 Before coming to Mannheim, I completed an M.Sc. in Quantitative Economics at LMU Munich and Bachelors in Mathematics and Economics at Koç University, Istanbul. 
 
