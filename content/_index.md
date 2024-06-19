@@ -11,9 +11,7 @@ I am interested in public economics, behavioral economics, and labor economics. 
 
 <!--Before coming to Mannheim, I completed an M.Sc. in Quantitative Economics at LMU Munich and Bachelors in Mathematics and Economics at Koç University, Istanbul. -->
 
-Here is my  __[CV](/pdf/CV_EmreOral.pdf)__ .
-
-Please don't hesitate to reach out!
+Here is my  __[CV](/pdf/CV_EmreOral.pdf)__ . Please don't hesitate to reach out!
 
 **Email:** emre.oral@uni-mannheim.de
 
