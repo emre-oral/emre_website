@@ -7,19 +7,11 @@ title = "home"
 
 I am a Ph.D. student in economics at University of Mannheim. 
 
-I am interested in public economics, behavioral economics, and labor economics. I currently work on questions around social security and retirement.
-
-<!--Before coming to Mannheim, I completed an M.Sc. in Quantitative Economics at LMU Munich and Bachelors in Mathematics and Economics at Koç University, Istanbul. -->
-
-Here is my  __[CV](/pdf/CV_EmreOral.pdf)__ . Please don't hesitate to reach out!
+I am interested in public economics, behavioral economics, and labor economics. I currently work on questions around **social security** and **retirement**. Here is my  __[CV](/pdf/CV_EmreOral.pdf)__ . Please don't hesitate to reach out!
 
 **Email:** emre.oral@uni-mannheim.de
 
-**Address:** \
-University of Mannheim \
-Department of Economics  \
-L7 3-5, Room S03/04 \
-68161 Mannheim, Germany
+
 
 <hr style="height:1px; border:none; background-color:gray;">
 
@@ -32,8 +24,12 @@ We study the influence of family members, neighbors and coworkers on retirement 
 ### Work in Progress
 - **Behavioral Adjustments to Retirement Reforms**
 
+<hr style="height:1px; border:none; background-color:gray;">
 
-
-
+**Address:** \
+University of Mannheim \
+Department of Economics  \
+L7 3-5, Room S03/04 \
+68161 Mannheim, Germany
 
 
