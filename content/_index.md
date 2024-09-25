@@ -7,7 +7,9 @@ title = "home"
 
 I am a Ph.D. student in economics at University of Mannheim. 
 
-I am interested in public economics, behavioral economics, and labor economics. I currently work on questions around **social security** and **retirement**. Here is my  __[CV](/pdf/CV_EmreOral.pdf)__ . Please don't hesitate to reach out!
+I am interested in public economics, behavioral economics, and labor economics.
+
+I currently work on questions around **social security** and **retirement behavior**. Here is my  __[CV](/pdf/CV_EmreOral.pdf)__ . Please don't hesitate to reach out!
 
 **Email:** emre.oral@uni-mannheim.de
 
