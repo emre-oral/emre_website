@@ -5,11 +5,11 @@ title = "home"
 <!-- Home Section -->
 ## Welcome!
 
-I am a Ph.D. student in economics at University of Mannheim. 
+I am a fourth-year Ph.D. student in economics at University of Mannheim. 
 
 I am interested in public economics, behavioral economics, and labor economics.
 
-I currently work on questions around **social security** and **retirement behavior**. Here is my  __[CV](/pdf/CV_EmreOral.pdf)__ . Please don't hesitate to reach out!
+I currently work on questions around **social insurance** and **retirement behavior**. Here is my  __[CV](/pdf/CV_EmreOral.pdf)__ . Please don't hesitate to reach out!
 
 **Email:** emre.oral@uni-mannheim.de
 
@@ -21,7 +21,7 @@ I currently work on questions around **social security** and **retirement behavi
 ## Research
 
 ### Working Papers
-- **[The Social Multiplier of Pension Reform](https://drive.google.com/file/d/10CTbzScERMF2xtvTfd_SYQf8GSuHGIqs/view)** (with [Simon Rabaté](https://simonrabate.github.io) and [Arthur Seibold](https://www.arthurseibold.com)) \
+- [The Social Multiplier of Pension Reform](https://drive.google.com/file/d/10CTbzScERMF2xtvTfd_SYQf8GSuHGIqs/view) (with [Simon Rabaté](https://simonrabate.github.io) and [Arthur Seibold](https://www.arthurseibold.com)) \
 We study the influence of family members, neighbors and coworkers on retirement behavior. To estimate causal retirement spillovers between individuals, we exploit a pension reform in the Netherlands that creates exogenous variation in peers' retirement ages, and we use administrative data on the full Dutch population. We find large spillovers in couples, primarily due to women reacting to their husband's retirement choices. Consistent with homophily in social interactions, the influence of the average sibling, neighbor and coworker is modest, but sizable spillovers emerge between similar individuals in these groups. Additional evidence suggests both leisure complementarities and the transmission of social norms as mechanisms behind retirement spillovers. Our findings imply that pension reforms have a large social multiplier, amplifying their overall impact on retirement behavior by 40%. 
 ### Work in Progress
 - **Behavioral Adjustments to Retirement Reforms**
