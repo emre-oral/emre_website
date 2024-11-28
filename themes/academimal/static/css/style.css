@@ -251,21 +251,21 @@ src: url("../fonts/Lora/Lora-Italic-VariableFont_wght.ttf") format("ttf")}
 .highlight {
   background-color: #f8f8f8; }
 
-  
+ /* 
 body {
   background-color:#f3f6f7;
   margin: 0;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #082132;
   font-weight: 400; }
-/*
+*/
 body {
   background-color:#ffffff;
   margin: 0;
   font: 14px/1.5 'Lora', serif;
   color: #082132;
   font-weight: 400; }
-*/
+
 h1, h2, h3, h4, h5, h6 {
   /*color: #E7ECEE;*/
   color: #fefefe;
