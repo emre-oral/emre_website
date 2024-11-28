@@ -297,7 +297,7 @@ h1, h2, h3 {
   line-height: 1.1; }
 
 h1 {
-  color: #ffffff  /*#f3f6f7;*/
+  color: #ffffff;  /*#f3f6f7;*/
   font-size: 28px; }
 
 h2 {
@@ -307,7 +307,7 @@ h3, h4, h5, h6 {
   color: #182225; }
 
 a.sidebar {
-  color:  #ffffff  /*#f3f6f7;*/
+  color:  #ffffff; /*#f3f6f7;*/
   text-decoration: none; 
   margin-top: -50px;
   word-break: break-word; }
@@ -317,7 +317,7 @@ a.sidebar:hover, a.sidebar:focus {
 
 a.sidebar small {
   font-size: 11px;
-  color:  #ffffff  /*#f3f6f7;*/
+  color:  #ffffff;  /*#f3f6f7;*/
   display: inline-block; }
 
 a.sidebar:hover small {
