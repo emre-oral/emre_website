@@ -5,13 +5,13 @@ title = "home"
 <!-- Home Section -->
 ## Welcome!
 
-**+++ I'm visiting Vrije Universiteit Amsterdam in December 2024 - January 2025 +++**
+**+++ I'm visiting <u>Vrije Universiteit Amsterdam</u> in December 2024 - January 2025 +++**
 
 I am a fourth-year Ph.D. student in economics at University of Mannheim. 
 
-My research interests span public economics, behavioral economics, and labor economics.
+My research interests span public economics, behavioral economics, and labor economics. I currently work on questions around **social insurance** and **retirement behavior**. 
 
-I currently work on questions around **social insurance** and **retirement behavior**. Here is my  __[CV](/pdf/CV_EmreOral.pdf)__ . Please don't hesitate to reach out!
+Here is my  __[CV](/pdf/CV_EmreOral.pdf)__ . Please don't hesitate to reach out!
 
 **Email:** emre.oral@uni-mannheim.de
 
