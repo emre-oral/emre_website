@@ -5,11 +5,13 @@ title = "home"
 <!-- Home Section -->
 ## Welcome!
 
-I am a fourth-year Ph.D. student in economics at University of Mannheim.
+I am a Ph.D. student in economics at University of Mannheim.
 
-My research interests span Public Economics, Applied Microeconomics and Behavioral Economics. I currently work on questions around **savings decisions** and **retirement behavior**. 
+My research interests are in Public Economics, Applied Microeconomics and Behavioral Economics. 
 
-Here is my  __[CV](/pdf/CV_EmreOral.pdf)__ . Please don't hesitate to reach out -- emre.oral@uni-mannheim.de
+I currently work on questions around **savings decisions** and **retirement behavior**. 
+
+Here is my  __[CV](/pdf/CV_EmreOral.pdf)__ . Please don't hesitate to reach out -- emre.oral[__at__]uni-mannheim.de
 
 
 
