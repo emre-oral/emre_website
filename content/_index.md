@@ -11,7 +11,7 @@ My research interests are in Public Economics, Applied Microeconomics and Behavi
 
 I currently work on questions around **savings decisions** and **retirement behavior**. 
 
-Here is my  __[CV](/pdf/CV_EmreOral.pdf)__ . Please don't hesitate to reach out -- emre.oral[__at__]uni-mannheim.de
+Here is my  __[CV](/pdf/CV_EmreOral.pdf)__ . Please don't hesitate to reach out -- emre.oral[at]uni-mannheim.de
 
 
 
