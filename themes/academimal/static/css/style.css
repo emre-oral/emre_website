@@ -260,7 +260,7 @@ body {
   font-weight: 400; }
 */
 body {
-  background-color:#fff8f8;
+  background-color:#fdf5f5;
   margin: 0;
   font: 14px/1.5 'Lora', serif;
   color: #082132;
@@ -385,7 +385,7 @@ img {
   /* Sidebar options */
 
   /* Header for left bar */
-/* header {
+header {
   float: left;
   position: fixed;
   background: #3a4b55;
@@ -395,33 +395,26 @@ img {
   padding: 2.5vw;
   width: 20vw; 
   height: 100vh;
-  -webkit-font-smoothing: subpixel-antialiased; } */
+  -webkit-font-smoothing: subpixel-antialiased; }
 
 /* Header for top bar */
-  header {
-    /* 1 – remove the invalid float */
-    /* float: top;  <-- not a legal value, so delete it */
-  
-    /* 2 – keep it fixed, but stretch it full width */
+
+
+  /* header {
     position: fixed;
-    top: 0;             /* stick to the top edge */
-    left: 0;            /* start at the left edge               */
-    right: 0;           /* …and extend to the right edge        */
-    /* bottom: 0;      <-- delete; a top bar doesn’t need this */
+    top: 0;            
+    left: 0;            
+    right: 0;           
   
-    /* 3 – size */
-    height: 60px;       /* pick a height you like               */
-    width: 100%;        /* full-width bar                       */
+    height: 60px;      
+    width: 100%;        
   
-    /* 4 – styling (keep your colour & padding) */
     background: #3a4b55;
-    padding: 0 2.5vw;   /* horizontal padding only looks nicer  */
   
-    /* 5 – make sure it stays above page content */
-    z-index: 1000;      /* anything > other layers is fine      */
+    z-index: 1000;     
   
     -webkit-font-smoothing: subpixel-antialiased;
-  }
+  } */
 
   
 
@@ -478,17 +471,17 @@ header ul a strong {
   color: #F3F6F7; }
 
   /* Section for use of leftbar */
-/* section {
+section {
   position: static;
   float: right;
   width: 70vw;
   padding: 2.5vw;
   word-wrap: break-word;
-  text-align: justify; } */
+  text-align: justify; }
 
     /* Section for use of topbar */
 
-  section {
+  /* section {
     /* 1 – let it participate in normal flow */
     position: relative;    /* or “static” – either is fine */
     float: none;           /* remove the sidebar float */
@@ -505,7 +498,7 @@ header ul a strong {
     padding: 2.5vw;
     word-wrap: break-word;
     text-align: justify;
-  }
+  } */
 
   
 
