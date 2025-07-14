@@ -482,19 +482,13 @@ section {
     /* Section for use of topbar */
 
   /* section {
-    /* 1 – let it participate in normal flow */
-    position: relative;    /* or “static” – either is fine */
-    float: none;           /* remove the sidebar float */
+    position: relative;    
+    float: none;           
   
-    /* 2 – full-width content area */
-    width: 100%;           /* fill the page */
-    max-width: 1060px;     /* OPTIONAL: keep a readable line length
-                              (matches your .wrapper width)        */
-    margin: 80px auto 0;   /* top-margin clears the 60 px header
-                              (60 px + 20 px breathing room) and
-                              “auto” horizontally centres the block */
+    width: 100%;          
+    max-width: 1060px;     
+    margin: 80px auto 0;   
   
-    /* 3 – keep your old padding & text rules */
     padding: 2.5vw;
     word-wrap: break-word;
     text-align: justify;
