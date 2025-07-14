@@ -260,7 +260,7 @@ body {
   font-weight: 400; }
 */
 body {
-  background-color:#fff5f5;
+  background-color:#fff8f8;
   margin: 0;
   font: 14px/1.5 'Lora', serif;
   color: #082132;
@@ -383,8 +383,10 @@ img {
   max-width: 100%; }
 
   /* Sidebar options */
-header {
-  float: top;
+
+  /* Header for left bar */
+/* header {
+  float: left;
   position: fixed;
   background: #3a4b55;
   top: 0px;
@@ -393,7 +395,37 @@ header {
   padding: 2.5vw;
   width: 20vw; 
   height: 100vh;
-  -webkit-font-smoothing: subpixel-antialiased; }
+  -webkit-font-smoothing: subpixel-antialiased; } */
+
+/* Header for top bar */
+  header {
+    /* 1 – remove the invalid float */
+    /* float: top;  <-- not a legal value, so delete it */
+  
+    /* 2 – keep it fixed, but stretch it full width */
+    position: fixed;
+    top: 0;             /* stick to the top edge */
+    left: 0;            /* start at the left edge               */
+    right: 0;           /* …and extend to the right edge        */
+    /* bottom: 0;      <-- delete; a top bar doesn’t need this */
+  
+    /* 3 – size */
+    height: 60px;       /* pick a height you like               */
+    width: 100%;        /* full-width bar                       */
+  
+    /* 4 – styling (keep your colour & padding) */
+    background: #3a4b55;
+    padding: 0 2.5vw;   /* horizontal padding only looks nicer  */
+  
+    /* 5 – make sure it stays above page content */
+    z-index: 1000;      /* anything > other layers is fine      */
+  
+    -webkit-font-smoothing: subpixel-antialiased;
+  }
+
+  
+
+
 
 header ul {
   list-style: none;
@@ -445,13 +477,37 @@ header ul a strong {
   display: block;
   color: #F3F6F7; }
 
-section {
+  /* Section for use of leftbar */
+/* section {
   position: static;
   float: right;
   width: 70vw;
   padding: 2.5vw;
   word-wrap: break-word;
-  text-align: justify; }
+  text-align: justify; } */
+
+    /* Section for use of topbar */
+
+  section {
+    /* 1 – let it participate in normal flow */
+    position: relative;    /* or “static” – either is fine */
+    float: none;           /* remove the sidebar float */
+  
+    /* 2 – full-width content area */
+    width: 100%;           /* fill the page */
+    max-width: 1060px;     /* OPTIONAL: keep a readable line length
+                              (matches your .wrapper width)        */
+    margin: 80px auto 0;   /* top-margin clears the 60 px header
+                              (60 px + 20 px breathing room) and
+                              “auto” horizontally centres the block */
+  
+    /* 3 – keep your old padding & text rules */
+    padding: 2.5vw;
+    word-wrap: break-word;
+    text-align: justify;
+  }
+
+  
 
 h1, h2, h3, h3, h4, h5, h6 {
   text-align: left; }
