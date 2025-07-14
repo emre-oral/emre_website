@@ -384,9 +384,9 @@ img {
 
   /* Sidebar options */
 header {
-  float: left;
+  float: inline-start;
   position: fixed;
-  background: #3a4b55;
+  background: #ffeeee;
   top: 0px;
   left: 0px;
   bottom: 0px;
