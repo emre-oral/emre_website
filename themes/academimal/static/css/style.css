@@ -260,7 +260,7 @@ body {
   font-weight: 400; }
 */
 body {
-  background-color:#F9ECEA;
+  background-color:#ffecec;
   margin: 0;
   font: 14px/1.5 'Lora', serif;
   color: #082132;
@@ -384,9 +384,9 @@ img {
 
   /* Sidebar options */
 header {
-  float: left;
+  float: top;
   position: fixed;
-  background: #ffeeee;
+  background: #3a4b55;
   top: 0px;
   left: 0px;
   bottom: 0px;
