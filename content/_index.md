@@ -29,7 +29,7 @@ We study the influence of family members, neighbors and coworkers on retirement 
 - <u> The Demand for Tax Privacy</u> (with [Oytun Tükenmez](https://www.su.se/english/profiles/oytu5628-1.661752))
 
 ### Other Work
-- <u>[Mass Reproducibility and Replicability: A New Hope](https://www.econstor.eu/bitstream/10419/289437/1/I4R-DP107.pdf)</u> (large replication project with > 340 co-authors)
+- <u>[Mass Reproducibility and Replicability: A New Hope](https://www.econstor.eu/bitstream/10419/289437/1/I4R-DP107.pdf)</u> (large replication project with > 340 co-authors) \
 *Revise and Resubmit, Nature*
 
 <hr style="height:1px; border:none; background-color:gray;">
