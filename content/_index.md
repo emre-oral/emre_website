@@ -30,7 +30,7 @@ We study the influence of family members, neighbors and coworkers on retirement 
 
 ### Other Work
 - <u>[Mass Reproducibility and Replicability: A New Hope](https://www.econstor.eu/bitstream/10419/289437/1/I4R-DP107.pdf)</u> (large replication project with > 340 co-authors)
-*R&R at Nature*
+*Revise and Resubmit, Nature*
 
 <hr style="height:1px; border:none; background-color:gray;">
 
