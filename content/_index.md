@@ -20,17 +20,20 @@ Here is my  __[CV](/pdf/CV_EmreOral.pdf)__ . Please don't hesitate to reach out 
 <!-- Research Section -->
 
 <style>
+details.abstract {
+  margin: -1em 0 0 40px;
+}
 details.abstract summary {
   display: inline-block;
   padding: 2px 10px;
-  background: #f0f0f0;
+  background: #fffdfd;
   border: 1px solid #999;
   border-radius: 4px;
   cursor: pointer;
   font-size: 0.85em;
   list-style: none;
 }
-details.abstract summary:hover { background: #e0e0e0; }
+details.abstract summary:hover { background: #f0eaea; }
 details.abstract[open] summary { margin-bottom: 6px; }
 details.abstract p { margin: 6px 0 12px; font-size: 0.95em; }
 </style>
