@@ -20,10 +20,18 @@ Here is my  __[CV](/pdf/CV_EmreOral.pdf)__ . Please don't hesitate to reach out 
 <!-- Research Section -->
 
 <style>
+details {
+  margin: 0 0 0 20px;
+}
 details > summary {
   list-style: none;
   cursor: pointer;
-  color:rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  font-size: 0.9em;
+}
+details > p {
+  margin: 4px 0;
+  font-size: 0.95em;
 }
 details > summary::-webkit-details-marker { display: none; }
 details > summary:hover { text-decoration: underline; }
