@@ -21,7 +21,7 @@ Here is my  __[CV](/pdf/CV_EmreOral.pdf)__ . Please don't hesitate to reach out 
 
 <style>
 details {
-  margin: -1.2em 0 0 39px;
+  margin: -1.2em 0 1 39px;
 }
 details > summary {
   list-style: none;
