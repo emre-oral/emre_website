@@ -19,6 +19,16 @@ Here is my  __[CV](/pdf/CV_EmreOral.pdf)__ . Please don't hesitate to reach out 
 
 <!-- Research Section -->
 
+<style>
+details > summary {
+  list-style: none;
+  cursor: pointer;
+  color: #0066cc;
+}
+details > summary::-webkit-details-marker { display: none; }
+details > summary:hover { text-decoration: underline; }
+</style>
+
 ## Research
 
 ### Working Papers
