@@ -19,31 +19,12 @@ Here is my  __[CV](/pdf/CV_EmreOral.pdf)__ . Please don't hesitate to reach out 
 
 <!-- Research Section -->
 
-<style>
-details.abstract {
-  margin: -1em 0 0 40px;
-}
-details.abstract summary {
-  display: inline-block;
-  padding: 2px 10px;
-  background: #fffdfd;
-  border: 1px solid #999;
-  border-radius: 4px;
-  cursor: pointer;
-  font-size: 0.85em;
-  list-style: none;
-}
-details.abstract summary:hover { background: #f0eaea; }
-details.abstract[open] summary { margin-bottom: 6px; }
-details.abstract p { margin: 6px 0 12px; font-size: 0.95em; }
-</style>
-
-
 ## Research
 
 ### Working Papers
 - <u>[The Social Multiplier of Pension Reform](https://drive.google.com/file/d/10CTbzScERMF2xtvTfd_SYQf8GSuHGIqs/view)</u> (with [Simon Rabaté](https://simonrabate.github.io) and [Arthur Seibold](https://www.arthurseibold.com)) \
- <details class="abstract"><summary>Abstract</summary>
+    <details>
+        <summary>[Click here for Abstract]</summary>
 We study the influence of family members, neighbors and coworkers on retirement behavior. To estimate causal retirement spillovers between individuals, we exploit a pension reform in the Netherlands that creates exogenous variation in peers' retirement ages, and we use administrative data on the full Dutch population. We find large spillovers in couples, primarily due to women reacting to their husband's retirement choices. Consistent with homophily in social interactions, the influence of the average sibling, neighbor and coworker is modest, but sizable spillovers emerge between similar individuals in these groups. Additional evidence suggests both leisure complementarities and the transmission of social norms as mechanisms behind retirement spillovers. Our findings imply that pension reforms have a large social multiplier, amplifying their overall impact on retirement behavior by 40%. 
   </details>
 
