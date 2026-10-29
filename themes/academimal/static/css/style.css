@@ -540,7 +540,8 @@ footer {
     float: none;
     position: static;
     width: auto;
-    padding: 8vw;}
+    padding: 8vw;
+    text-align: left;}
 
   header ul {
     width: 99%; }
