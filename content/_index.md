@@ -42,8 +42,7 @@ details > summary:hover { text-decoration: underline; }
 ## Research
 
 ### Job Market Paper
-- <u>Why Do Retirees Retain Wealth? Quasi-Experimental Evidence from the Netherlands</u> \
-*[Draft available soon!]*
+- <u>[Why Do Retirees Retain Wealth? Quasi-Experimental Evidence from the Netherlands](/pdf/JMP_EO.pdf)</u>
 <details><summary>[Click here for Abstract]</summary><p>
 I study why retired households draw down so little wealth, a puzzling empirical pattern known as the <em>retirement savings puzzle</em>. Using population-wide administrative data from the Netherlands, I investigate the role of long-term-care expenditure risk and bequest motives in explaining this pattern. For identification, I exploit statutory kinks in the Dutch policy rules governing costs of care, and examine life events that change the set of potential heirs. I find both motives are important drivers of old-age wealth. A marginal euro increase in care costs increases annual wealth accumulation by 45 cents, implying a precautionary stock of up to 22 percent of wealth. On the bequest side, losing an adult child decreases wealth by 5.5 percent, while gaining an unexpected grandchild increases it by 1.2 percent five years after the event. Findings provide evidence of an <em>intentional</em> bequest motive directed toward particular heirs. Together, the two motives account for up to 40 percent of old-age wealth, but leave a substantial portion unexplained.
 </p></details>
